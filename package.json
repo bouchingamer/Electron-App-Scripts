@@ -1,0 +1,15 @@
+{
+  "name": "Example",
+  "version": "0.0.0",
+  "author": "Your Name.",
+  "descripition": "Put Your Descripition Here.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^39.0.0",
+    "electron-builder": "^26.15.3"
+  }
+}
