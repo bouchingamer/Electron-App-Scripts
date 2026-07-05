@@ -1,0 +1,14 @@
+1. package.json must be created
+2. main.js must be created
+3. run this npm init -y
+4. run this npm install --save-dev electron
+5. make sure your project has Example Domain/
+│
+├── package.json
+├── main.js
+└── index.html
+6. make sure your package.json is the one in here
+7. put code in main.js
+8. run the app(npm start) 
+9. build npm install --save-dev electron-builder
+10. run the build npm run build
